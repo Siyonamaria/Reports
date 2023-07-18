@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.19" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="limeroad order" name="To search a product for men" time="0.025">
+<system-out><![CDATA[
+Given Launch the browser....................................................passed
+When user open the url "https://www.biba.in/"...............................passed
+And click on url............................................................passed
+Then user should see the home page..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
